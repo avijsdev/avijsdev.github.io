@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.d67dc5f5.chunk.js",
+    "main.js.map": "/static/js/main.d67dc5f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.873ef92e.chunk.js": "/static/js/2.873ef92e.chunk.js",
+    "static/js/2.873ef92e.chunk.js.map": "/static/js/2.873ef92e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.332d56ed31fee37c8e1953e7351c7f88.js": "/precache-manifest.332d56ed31fee37c8e1953e7351c7f88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.873ef92e.chunk.js.LICENSE.txt": "/static/js/2.873ef92e.chunk.js.LICENSE.txt",
+    "static/media/My_portfolio_pic.jpeg": "/static/media/My_portfolio_pic.fdf6b2d9.jpeg",
+    "static/media/favicon.jpeg": "/static/media/favicon.532b8001.jpeg",
+    "static/media/me.jpeg": "/static/media/me.fde665ea.jpeg",
+    "static/media/ms_logo.png": "/static/media/ms_logo.011bf697.png",
+    "static/media/ps-logo.svg": "/static/media/ps-logo.e2d3f579.svg",
+    "static/media/walmart-logo.png": "/static/media/walmart-logo.0b1d9c2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.873ef92e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d67dc5f5.chunk.js"
+  ]
+}
